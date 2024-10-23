@@ -1,0 +1,6 @@
+@Mindstep_HostAddress = http://localhost:5100
+
+GET {{Mindstep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
