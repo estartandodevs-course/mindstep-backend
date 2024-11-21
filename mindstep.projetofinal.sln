@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2EDB7071-6915-4DE9-8101-AD4FB485F5E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "contas", "contas", "{1D0532AD-89B8-4AFC-B04B-794DCFD92035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindstep.contas.app", "src\contas\mindstep.contas.app\mindstep.contas.app.csproj", "{F6A8D939-E9A2-440C-B79E-D24FCAA2324D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{971F7C3C-715A-48FE-B843-A561F7A34409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindstep.api", "src\api\mindstep.api\mindstep.api.csproj", "{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A8D939-E9A2-440C-B79E-D24FCAA2324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A8D939-E9A2-440C-B79E-D24FCAA2324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A8D939-E9A2-440C-B79E-D24FCAA2324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A8D939-E9A2-440C-B79E-D24FCAA2324D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D0532AD-89B8-4AFC-B04B-794DCFD92035} = {2EDB7071-6915-4DE9-8101-AD4FB485F5E8}
+		{F6A8D939-E9A2-440C-B79E-D24FCAA2324D} = {1D0532AD-89B8-4AFC-B04B-794DCFD92035}
+		{971F7C3C-715A-48FE-B843-A561F7A34409} = {2EDB7071-6915-4DE9-8101-AD4FB485F5E8}
+		{B2DC9AF7-DD3C-4DE6-A054-FC0B96A28B66} = {971F7C3C-715A-48FE-B843-A561F7A34409}
+	EndGlobalSection
+EndGlobal
