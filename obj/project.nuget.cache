@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "89JZY1sR7WI=",
+  "dgSpecHash": "J9IGMUP7uCo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj",
+  "projectFilePath": "C:\\Users\\Isabele Leal\\Desktop\\Dados Isabele\\mindstep-backend\\Mindstep.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isabele Leal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\Isabele Leal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

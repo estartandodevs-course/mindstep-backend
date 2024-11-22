@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj",
+      "projectUniqueName": "C:\\Users\\Isabele Leal\\Desktop\\Dados Isabele\\mindstep-backend\\Mindstep.csproj",
       "projectName": "Mindstep",
-      "projectPath": "c:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj",
+      "projectPath": "C:\\Users\\Isabele Leal\\Desktop\\Dados Isabele\\mindstep-backend\\Mindstep.csproj",
       "packagesPath": "C:\\Users\\Isabele Leal\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\obj\\",
+      "outputPath": "C:\\Users\\Isabele Leal\\Desktop\\Dados Isabele\\mindstep-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isabele Leal\\AppData\\Roaming\\NuGet\\NuGet.Config"
