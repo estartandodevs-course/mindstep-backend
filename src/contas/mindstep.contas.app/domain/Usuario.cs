@@ -13,4 +13,6 @@ public class Usuario : Entity, IAggregateRoot
     public string Estado {get; set;}
     public string Cidade {get; set;}
     public string Formacao {get; set;}
+
+    public string testeBranch {get; set;}
 }
