@@ -5,5 +5,5 @@ namespace mindstep.contas.app.domain;
 
 public class Usuario : Entity, IAggregateRoot
 {
-    public int MyProperty { get; set; }
+    public int MyProperty { get; set; 
 }
