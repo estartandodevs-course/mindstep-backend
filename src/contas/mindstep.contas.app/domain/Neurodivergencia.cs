@@ -1,8 +1,7 @@
-using EstartandoDevsCore.DomainObjects;
 
 namespace mindstep.contas.app.domain;
 
-public class Neurodivergencia : Entity
+public class Neurodivergencia 
 {
     public string DesafioDeAprendizado{ get; set; }
 

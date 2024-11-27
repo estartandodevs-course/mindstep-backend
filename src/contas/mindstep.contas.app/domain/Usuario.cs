@@ -5,16 +5,31 @@ namespace mindstep.contas.app.domain;
 
 public class Usuario : Entity, IAggregateRoot
 {
-    public String Nome { get;  set; }
-    public String Email { get; set; }   
+    public Usuario(Login login, DateTime dataNascimento, int celular, string estado, string cidade, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia)
+    {
+        Login = login;
+        DataNascimento = dataNascimento;
+        Celular = celular;
+        Estado = estado;
+        Cidade = cidade;
+        Formacao = formacao;
+        TipoUsuario = tipoUsuario;
+        Neurodivergencia = neurodivergencia;
+    }
 
-    public DateTime DataNascimento { get; set; }
-    public int Celular { get; set; }
+    protected Usuario()
+    {
 
-    public String Estado { get; set; } 
+    }
 
-    public String Cidade { get; set; }
 
-    public String Formacao { get; set; }
-
+    public Login Login {get; private set;}
+    public DateTime DataNascimento { get; private set; }
+    public int Celular { get; private set; }
+    public string Estado { get; private set; } 
+    public string Cidade { get; private set; }
+    public string Formacao { get; private set; }
+    public TipoUsuario TipoUsuario {get; private set;}
+    public Neurodivergencia Neurodivergencia { get; private set; }
 }
+
