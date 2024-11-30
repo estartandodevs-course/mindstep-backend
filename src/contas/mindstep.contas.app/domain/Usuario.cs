@@ -17,11 +17,10 @@ public class Usuario : Entity, IAggregateRoot
         Neurodivergencia = neurodivergencia;
     }
 
-    protected Usuario()
+    private  Usuario()
     {
-
+        
     }
-
 
     public Login Login {get; private set;}
     public DateTime DataNascimento { get; private set; }
