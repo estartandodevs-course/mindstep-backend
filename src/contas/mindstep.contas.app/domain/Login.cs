@@ -5,10 +5,10 @@ namespace mindstep.contas.app.domain;
 
 public sealed class Login
 {
-    public Guid Hash {get; set;}
-    public Email Email{ get; set; }
+    public Guid Hash {get; private set;}
+    public Email Email{ get; private set; }
 
-    public Senha Senha{ get; set; }
+    public Senha Senha{ get; private set; }
 
     protected Login(){}
 

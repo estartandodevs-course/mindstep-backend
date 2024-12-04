@@ -5,30 +5,43 @@ namespace mindstep.contas.app.domain;
 
 public class Usuario : Entity, IAggregateRoot
 {
-    public Usuario(Login login, DateTime dataNascimento, int celular, string estado, string cidade, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia)
+
+    public string Nome { get; private set; }
+    public Login Login { get; private set; }
+    public DateTime DataNascimento { get; private set; }
+    public int Celular { get; private set; }
+    public string Formacao { get; private set; }
+    public TipoUsuario TipoUsuario { get; private set; }
+    public Neurodivergencia Neurodivergencia { get; private set; }
+    public string Foto { get; private set; }
+
+    private HashSet<Endereco> _Endereco;
+
+    public IReadOnlyCollection<Endereco> Enderecos => _Endereco;
+
+
+    private Usuario()
     {
+        _Endereco = new HashSet<Endereco>();
+    }
+
+    public Usuario(string nome, Login login, DateTime dataNascimento, int celular, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia, string foto)
+    {
+        Nome = nome;
         Login = login;
         DataNascimento = dataNascimento;
         Celular = celular;
-        Estado = estado;
-        Cidade = cidade;
         Formacao = formacao;
         TipoUsuario = tipoUsuario;
         Neurodivergencia = neurodivergencia;
+        Foto = foto;
     }
 
-    private  Usuario()
-    {
-        
-    }
-
-    public Login Login {get; private set;}
-    public DateTime DataNascimento { get; private set; }
-    public int Celular { get; private set; }
-    public string Estado { get; private set; } 
-    public string Cidade { get; private set; }
-    public string Formacao { get; private set; }
-    public TipoUsuario TipoUsuario {get; private set;}
-    public Neurodivergencia Neurodivergencia { get; private set; }
+    public void AtribuirNome(string nome) => Nome = nome;
+    public void AtribuirLogin(Login login) => Login = login;
+    public void AtribuirDataNascimento(DateTime dataNascimento) => DataNascimento = dataNascimento;
+    public void AtribuirFoto(string foto) => Foto = foto;
+    public void AdicionarEndereco(Endereco endereco) => _Endereco.Add(endereco);
+    public void RemoverEndereco(Endereco endereco) => _Endereco.Remove(endereco);
 }
 
