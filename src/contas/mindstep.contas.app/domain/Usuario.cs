@@ -1,5 +1,6 @@
 using System;
 using EstartandoDevsCore.DomainObjects;
+using mindstep.contas.app.domain.Enum;
 
 namespace mindstep.contas.app.domain;
 
