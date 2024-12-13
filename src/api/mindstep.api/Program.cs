@@ -10,6 +10,7 @@ builder.Services.AddSwaggerGen();
 var configuration = builder.Configuration;
 
 builder.Services.AddSwaggerConfiguration();
+
 builder.Services.AddApiConfiguration(configuration);
 
 var app = builder.Build();
