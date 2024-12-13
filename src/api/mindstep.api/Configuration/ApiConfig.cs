@@ -27,8 +27,8 @@ namespace mindstep.api.Configuration
         {
             // options.AddPolicy(PermissoesDeOrigem,
             // policy =>{
-            //     policy.WithOrigins("http://www.conectedu.com",
-            //                        "http://conectedu.com");
+            //     policy.WithOrigins("http://www.mindstep.com.br",
+            //                        "http://mindstep.com.br");
             // });
 
             options.AddPolicy(PermissoesDeOrigem,
