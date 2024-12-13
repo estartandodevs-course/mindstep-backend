@@ -1,3 +1,5 @@
+using mindstep.api.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,6 +18,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+builder.Services.AddSwaggerConfiguration();
+builder.Services.AddApiConfiguration(configuration);
 
+app.UseApiConfiguration();
 
 app.Run();
