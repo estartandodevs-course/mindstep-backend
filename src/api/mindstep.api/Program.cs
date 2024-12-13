@@ -13,6 +13,8 @@ builder.Services.AddSwaggerConfiguration();
 
 builder.Services.AddApiConfiguration(configuration);
 
+builder.Services.RegisterServices();
+
 var app = builder.Build();
 
 app.UseApiConfiguration();

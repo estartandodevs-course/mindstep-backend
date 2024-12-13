@@ -12,6 +12,8 @@ namespace mindstep.contas.app.Application.Commands
     {
         public string Nome { get; private set; }
         public Login Login { get; private set; }
+        public string Email { get; private set; }
+        public string Senha { get; private set; }
         public DateTime DataNascimento { get; private set; }
         public int Celular { get; private set; }
         public string Formacao { get; private set; }
