@@ -21,7 +21,7 @@ namespace mindstep.contas.app.Application.Commands
         }
         public async Task<ValidationResult> Handle(AdicionarUsuarioCommand request, CancellationToken cancellationToken)
         {
-            var novo = new Usuario(request.Nome, request.Login, request.DataNascimento, request.Celular, request.Formacao, request.TipoUsuario, request.Neurodivergencia, request.Foto);
+            var novo = new Usuario(request.Nome, request.DataNascimento, request.Celular, request.Formacao, request.TipoUsuario, request.Neurodivergencia, request.Foto);
 
             var login = new Login(new Email(request.Email), new Senha(request.Senha));
 

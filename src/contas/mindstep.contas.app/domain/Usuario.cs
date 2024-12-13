@@ -29,11 +29,18 @@ public class Usuario : Entity, IAggregateRoot
         
     }
 
-    public Usuario(  string nome, Login login, DateTime dataNascimento, int celular, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia, string foto)
+    public Usuario(  string nome, DateTime dataNascimento, string formacao,string foto)
     {
     
         Nome = nome;
-        Login = login;
+        DataNascimento = dataNascimento;
+        Formacao = formacao;
+        Foto = foto;
+    }
+
+    public Usuario(string nome, DateTime dataNascimento, int celular, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia, string foto)
+    {
+        Nome = nome;
         DataNascimento = dataNascimento;
         Celular = celular;
         Formacao = formacao;
@@ -41,8 +48,6 @@ public class Usuario : Entity, IAggregateRoot
         Neurodivergencia = neurodivergencia;
         Foto = foto;
     }
-
-    
 
     public void AtribuirNome(string nome) => Nome = nome;
     public void AtribuirLogin(Login login) => Login = login;

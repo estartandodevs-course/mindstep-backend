@@ -11,26 +11,20 @@ namespace mindstep.contas.app.Application.Commands
     public class AdicionarUsuarioCommand : Command
     {
         public string Nome { get; private set; }
-        public Login Login { get; private set; }
         public string Email { get; private set; }
         public string Senha { get; private set; }
         public DateTime DataNascimento { get; private set; }
-        public int Celular { get; private set; }
         public string Formacao { get; private set; }
-        public TipoUsuario TipoUsuario { get; private set; }
-        public Neurodivergencia Neurodivergencia { get; private set; }
         public string Foto { get; private set; }
 
-        public AdicionarUsuarioCommand(string nome, Login login, DateTime dataNascimento, int celular, string formacao, TipoUsuario tipoUsuario, Neurodivergencia neurodivergencia, string foto)
+        public AdicionarUsuarioCommand(string nome, string email, string senha, DateTime dataNascimento,string formacao, string foto)
         {
 
             Nome = nome;
-            Login = login;
+            Email = email;
+            Senha = senha;
             DataNascimento = dataNascimento;
-            Celular = celular;
             Formacao = formacao;
-            TipoUsuario = tipoUsuario;
-            Neurodivergencia = neurodivergencia;
             Foto = foto;
         }
 
