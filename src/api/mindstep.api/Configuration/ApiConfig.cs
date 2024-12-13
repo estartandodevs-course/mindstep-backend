@@ -14,7 +14,46 @@ namespace mindstep.api.Configuration
         {
             services.AddControllers();
 
-            services.AddDbContext<UsuarioContext>
+            services.AddDbContext<UsuarioContext>(options =>
+                options.UseSqlServer(configuration.GetConnectionString(ConexaoBancoDeDados)));
+
+             services.Configure<ApiBehaviorOptions>(options =>
+        {
+            options.SuppressModelStateInvalidFilter = true;
+        });    
         }
+
+       /*  services.AddCors(options =>
+        {
+            // options.AddPolicy(PermissoesDeOrigem,
+            // policy =>{
+            //     policy.WithOrigins("http://www.conectedu.com",
+            //                        "http://conectedu.com");
+            // });
+
+            options.AddPolicy(PermissoesDeOrigem,
+            builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyHeader()
+                       .AllowAnyMethod();
+            });
+        }); */
+    }
+
+    public static void UseApiConfiguration(this WebApplication app)
+    {
+        // Configure the HTTP request pipeline.
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseSwaggerConfiguration();
+            app.UseSwagger();
+            app.UseSwaggerUI();
+
+        }
+
+        app.MapControllers();
+        app.UseAuthConfiguration();
+        app.UseHttpsRedirection();
     }
 }

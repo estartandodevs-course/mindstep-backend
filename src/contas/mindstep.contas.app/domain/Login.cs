@@ -17,5 +17,8 @@ public sealed class Login
         Email = email;
         Senha = senha;
         Hash = new Identidade(Email.Endereco, Senha.Valor);
+        
     }
+
+   
 }
