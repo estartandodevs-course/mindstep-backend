@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj": {}
+    "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj": {}
   },
   "projects": {
-    "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj": {
+    "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj",
+        "projectUniqueName": "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj",
         "projectName": "Mindstep",
-        "projectPath": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj",
-        "packagesPath": "/Users/ramonxavier/.nuget/packages/",
-        "outputPath": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/obj/",
+        "projectPath": "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\Mindstep.csproj",
+        "packagesPath": "C:\\Users\\Isabele Leal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Isabele Leal\\Desktop\\mindstep-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ramonxavier/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Isabele Leal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
