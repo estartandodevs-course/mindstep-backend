@@ -460,24 +460,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/ramonxavier/.nuget/packages/": {}
+    "C:\\Users\\alann\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj",
+      "projectUniqueName": "C:\\Users\\alann\\OneDrive\\Desktop\\mindstep-backend\\Mindstep.csproj",
       "projectName": "Mindstep",
-      "projectPath": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/Mindstep.csproj",
-      "packagesPath": "/Users/ramonxavier/.nuget/packages/",
-      "outputPath": "/Users/ramonxavier/Development/Github/ED/TCC/Mindstep/obj/",
+      "projectPath": "C:\\Users\\alann\\OneDrive\\Desktop\\mindstep-backend\\Mindstep.csproj",
+      "packagesPath": "C:\\Users\\alann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alann\\OneDrive\\Desktop\\mindstep-backend\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/ramonxavier/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\alann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -490,6 +498,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -524,7 +537,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
