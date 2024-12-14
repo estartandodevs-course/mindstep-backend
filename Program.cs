@@ -5,6 +5,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Adicionar o DbContext ao container de serviços
+builder.Services.AddDbContext<UsuarioContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
