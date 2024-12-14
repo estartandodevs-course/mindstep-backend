@@ -1,0 +1,287 @@
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\appsettings.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.exe
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.deps.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.runtimeconfig.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.pdb
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.AssemblyReference.cache
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.AssemblyInfoInputs.cache
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.AssemblyInfo.cs
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.CoreCompileInputs.cache
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.sourcelink.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.Mindstep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Mindstep.props
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mindstep.props
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mindstep.props
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\scopedcss\bundle\Mindstep.styles.css
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.Up2Date
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\refint\Mindstep.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.pdb
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.genruntimeconfig.cache
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\obj\Debug\net8.0\ref\Mindstep.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\EstartandoDevsCore.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\MediatR.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alann\OneDrive\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.staticwebassets.endpoints.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.exe
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.deps.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.runtimeconfig.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mindstep.pdb
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\EstartandoDevsCore.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\MediatR.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.AssemblyReference.cache
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.AssemblyInfoInputs.cache
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.AssemblyInfo.cs
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.CoreCompileInputs.cache
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.sourcelink.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\scopedcss\bundle\Mindstep.styles.css
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.Mindstep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.Mindstep.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Mindstep.props
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mindstep.props
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mindstep.props
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.csproj.Up2Date
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\refint\Mindstep.dll
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.pdb
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\Mindstep.genruntimeconfig.cache
+C:\Users\Isabele Leal\Desktop\mindstep-backend\obj\Debug\net8.0\ref\Mindstep.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mindstep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+613e1bc588fc7f394d102236e7ff6fbedaec1b25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f41c91d583999eee575369ddbf6fe84b2c0893")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mindstep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mindstep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
