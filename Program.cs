@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using mindstep_backend.src.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,12 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-var builder = WebApplication.CreateBuilder(args);
-
 // Adicionar o DbContext ao container de serviços
 builder.Services.AddDbContext<UsuarioContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
